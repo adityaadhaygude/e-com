@@ -9,7 +9,7 @@ To run this app on localhost:
 - open browser and goto localhost:8000/shop/
 <br />
 
-###Cart home page UI
+### Cart home page UI
 <img alt="project UI" width="900px" src="https://github.com/adityaadhaygude/e-com/blob/master/cart_home.png" />
 
 ### Cart checkout UI
