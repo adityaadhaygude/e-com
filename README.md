@@ -7,15 +7,16 @@ To run this app on localhost:
 - install django package using pip
 - open cmd and run command python manage.py runserver
 - open browser and goto localhost:8000/shop/
+<br />
 
 ###Cart home page UI
-<img alt="project UI" width="900px" src="" />
+<img alt="project UI" width="900px" src="https://github.com/adityaadhaygude/e-com/blob/master/cart_home.png" />
 
 ### Cart checkout UI
-<img alt="project UI" width="900px" src="" />
+<img alt="project UI" width="900px" src="https://github.com/adityaadhaygude/e-com/blob/master/cart_checkout.png" />
 
-### Cart product details UI
-<img alt="project UI" width="900px" src="" />
+### Cart product add to cart UI
+<img alt="project UI" width="900px" src="https://github.com/adityaadhaygude/e-com/blob/master/cart_add.png" />
 
 
 ### Connect with me:
